@@ -1,3 +1,6 @@
 # Claview(Class + Review)
+### Description
+>Students evaluate their class and professors see the reviews **by just clicking the button one time**
 
-> An web application which lets students evaluate classes
+### URL
+>https://claview.herokuapp.com
